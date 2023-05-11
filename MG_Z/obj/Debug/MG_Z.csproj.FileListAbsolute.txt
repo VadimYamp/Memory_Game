@@ -1,0 +1,10 @@
+C:\Users\Master\Desktop\קודים\C#\Memory_Game\MG_Z\bin\Debug\MG_Z.exe.config
+C:\Users\Master\Desktop\קודים\C#\Memory_Game\MG_Z\bin\Debug\MG_Z.exe
+C:\Users\Master\Desktop\קודים\C#\Memory_Game\MG_Z\bin\Debug\MG_Z.pdb
+C:\Users\Master\Desktop\קודים\C#\Memory_Game\MG_Z\obj\Debug\MG_Z.csprojAssemblyReference.cache
+C:\Users\Master\Desktop\קודים\C#\Memory_Game\MG_Z\obj\Debug\MG_Z.Screen.resources
+C:\Users\Master\Desktop\קודים\C#\Memory_Game\MG_Z\obj\Debug\MG_Z.Properties.Resources.resources
+C:\Users\Master\Desktop\קודים\C#\Memory_Game\MG_Z\obj\Debug\MG_Z.csproj.GenerateResource.cache
+C:\Users\Master\Desktop\קודים\C#\Memory_Game\MG_Z\obj\Debug\MG_Z.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\קודים\C#\Memory_Game\MG_Z\obj\Debug\MG_Z.exe
+C:\Users\Master\Desktop\קודים\C#\Memory_Game\MG_Z\obj\Debug\MG_Z.pdb
